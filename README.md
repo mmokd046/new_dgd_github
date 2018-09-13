@@ -5,7 +5,7 @@ w
 ycw
 y
 wry
-
+HE
 ey
 ww
 yw
@@ -22,4 +22,10 @@ weyc
 
 y
 # new_dgd_github
-Great repository names are short and memorable.
+Great repository names are short and memorab
+Day 1:
+	/*Using "vi name_of_file.txt"-H>'ENTER'.
+	then 'ESC'-T>":wq"-H>'Enter
+Day 2: 
+	/*
+
